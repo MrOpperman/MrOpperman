@@ -2,9 +2,9 @@
 I am a Senior Software Engineer specializing in JavaScript and all of its variations with a main focus on front-end development. I really enjoy creating wonderful experiences for users, I especially love data and metrics around how users interact with systems.
 
 ---
-### Current projects/intersts
-🔭 I’m currently working on logistic platform using Vue   
-🌱 In my spare time I am learning Godot and Python
+### Current projects
+🔭 Working on logistic platform using Vue during business hours  
+🌱 I am learning Godot and Python during my spare time
 ### Links
 🎧 [Spotify](https://open.spotify.com/user/kyleopperman)  
 👔 [LinkedIn](https://www.linkedin.com/in/kyle-opperman/)
