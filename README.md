@@ -3,7 +3,7 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 
 ---
 ### Current projects
-🔭 Working on logistic platform using Vue during business hours  
+🔭 Working on a logistic platform using Vue during business hours  
 🌱 I am learning Godot and Python during my spare time
 ### Links
 🎧 [Spotify](https://open.spotify.com/user/kyleopperman)  
