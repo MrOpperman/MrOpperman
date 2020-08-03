@@ -7,7 +7,8 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 🌱 I am learning Godot and Python during my spare time
 ### Links
 🎧 [Spotify](https://open.spotify.com/user/kyleopperman)  
-👔 [LinkedIn](https://www.linkedin.com/in/kyle-opperman/)
+👔 [LinkedIn](https://www.linkedin.com/in/kyle-opperman/)  
+✍️ [Medium](https://medium.com/@kyle_77228)
 
 <!--
 **MrOpperman/MrOpperman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
