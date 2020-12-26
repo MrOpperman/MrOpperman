@@ -10,7 +10,7 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 ### Links
 🎧 [Spotify](https://open.spotify.com/user/kyleopperman)  
 👔 [LinkedIn](https://www.linkedin.com/in/kyle-opperman/)  
-✍️ [Medium](https://medium.com/@kyle_77228)
+✍️ [Medium](https://medium.com/@kyle_77228)  
 ♥️ [Itch.io](https://mropperman.itch.io)
 
 <!--
