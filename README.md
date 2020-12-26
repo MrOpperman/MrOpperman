@@ -3,7 +3,7 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 
 ---
 ### Current projects
-🚚 Working on a logistic platform (Vue)
+🚚 Working on a logistic platform (Vue)  
 🎮 Hobbist game developer (Godot/Unity)  
 🌓 [Better-layout](https://www.better-layout.com/)
 ### Links
