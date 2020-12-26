@@ -3,8 +3,9 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 
 ---
 ### Current projects
-🔭 Working on a logistic platform using Vue during business hours  
-🌱 I am learning Godot and Python during my spare time
+🚚 Working on a logistic platform using Vue during business hours  
+🎮 Hobbist game developer (Godot/Unity)  
+🌓 [Better-layout](https://www.better-layout.com/)
 ### Links
 🎧 [Spotify](https://open.spotify.com/user/kyleopperman)  
 👔 [LinkedIn](https://www.linkedin.com/in/kyle-opperman/)  
