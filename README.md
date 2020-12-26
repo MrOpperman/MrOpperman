@@ -6,7 +6,7 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 🚚 Working on a logistic platform (Vue)  
 🎮 Hobbist game developer (Godot/Unity)  
 🌓 [Better-layout](https://www.better-layout.com/) (Vue/Firebase)  
-📖 [Polish Conjugations](https://polish-verbs.web.app/) (React/Firebase)
+📖 [Polish conjugations](https://polish-verbs.web.app/) (React/Firebase)
 ### Links
 🎧 [Spotify](https://open.spotify.com/user/kyleopperman)  
 👔 [LinkedIn](https://www.linkedin.com/in/kyle-opperman/)  
