@@ -3,7 +3,6 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 
 ---
 ### Current projects
-🚚 Working on a logistic platform (Vue)  
 🎮 Hobbist game developer (Godot/Unity)  
 🌓 [Better-layout](https://www.better-layout.com/) (Vue/Firebase)  
 📖 [Polish conjugations](https://polish-verbs.web.app/) (React/Firebase)
