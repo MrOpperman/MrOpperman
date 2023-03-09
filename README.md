@@ -1,5 +1,5 @@
-## Hey there, I'm Kyle 👋
-I am a Senior Software Engineer specializing in JavaScript and all of its variations with a main focus on front-end development. I really enjoy creating wonderful experiences for users, I especially love data and metrics around how users interact with systems.
+## Welcome!
+As an experienced front-end engineer with a passion for game development, I am eager to apply my skills to create engaging and immersive gaming experiences. With over 10 years of experience developing custom information systems and various web3 experiences for both startup and established companies, I have honed my ability to adapt to new technologies and working methodologies. I have gained experience in both gameplay programming and user interface design while working on small game projects. I am excited to continue growing my skills in game development and use my expertise to create games that deliver a seamless and immersive player experience.
 
 ---
 ### Game Porfolio 
