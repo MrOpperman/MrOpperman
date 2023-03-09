@@ -4,7 +4,7 @@ I am a Senior Software Engineer specializing in JavaScript and all of its variat
 ---
 ### Game Porfolio 
 **Unreal Engine**  
-[Void Beneath](https://voidbeneath.itch.io/voidbeneath). 
+[Void Beneath](https://voidbeneath.itch.io/voidbeneath)  
 
 **Godot**  
 [Rouge Space](https://github.com/MrOpperman/rogue-space/)  
